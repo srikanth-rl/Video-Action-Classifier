@@ -11,8 +11,7 @@ This project focuses on classifying actions in videos using the ResNet50 archite
 - scikit-learn
 
 ## Test My model
-(https://colab.research.google.com/drive/1n1jDzsAHCOEFTPBrxSXD9C0f0dSfqehu)https://colab.research.google.com/drive/1n1jDzsAHCOEFTPBrxSXD9C0f0dSfqehu
-
+(https://colab.research.google.com/drive/1Zv10Yw4WEQDZY02Mot_EamGlvNYR4NS3)
 ## OUTPUT
 [# Sample playing video]
 <img width="687" alt="image_2024-01-19_22-14-56" src="https://github.com/srikanth-rl/Video-Action-Classifier/assets/98140086/cc1c4f2c-bfec-45a2-957b-715bdc07e898">
