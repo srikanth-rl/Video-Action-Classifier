@@ -10,7 +10,7 @@ This project focuses on classifying actions in videos using the ResNet50 archite
 - Keras
 - scikit-learn
 
-## For Reference
+## Visit my trained model
 [# Video-Action-Classifier](https://colab.research.google.com/drive/1n1jDzsAHCOEFTPBrxSXD9C0f0dSfqehu)https://colab.research.google.com/drive/1n1jDzsAHCOEFTPBrxSXD9C0f0dSfqehu
 
 ## OUTPUT
