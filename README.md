@@ -1,4 +1,4 @@
-# Video Action Classification with ResNet50
+# Video Action Classification
 
 ## Overview
 This project focuses on classifying actions in videos using the ResNet50 architecture. The goal is to predict the action category for a given set of input videos, such as Boxing, Swimming, and Jogging,.etc...
@@ -11,7 +11,7 @@ This project focuses on classifying actions in videos using the ResNet50 archite
 - scikit-learn
 
 ## Test My model
-(https://colab.research.google.com/drive/1Zv10Yw4WEQDZY02Mot_EamGlvNYR4NS3)
+(https://colab.research.google.com/drive/1n1jDzsAHCOEFTPBrxSXD9C0f0dSfqehu)
 
 ## OUTPUT
 [# Sample playing video]
